@@ -17,6 +17,8 @@ A simple **Weather Application** built using **HTML, CSS, and JavaScript**. Get 
 - **JavaScript** – Fetching API & logic  
 - **OpenWeather API** – For real-time weather data  
 
+## 📸Demo Screenshot  
+![Screenshot 2025-02-24 203545](https://github.com/user-attachments/assets/9bede19b-ce81-4a4c-b611-111fe2a0ac02)
 
 ## 🎯 How to Use?  
 1. Enter a city name in the search bar  
