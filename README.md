@@ -20,7 +20,7 @@ A simple **Weather Application** built using **HTML, CSS, and JavaScript**. Get 
 
 ## 🎯 How to Use?  
 1. Enter a city name in the search bar  
-2. Click **"Search Bar"**  
+2. Click **Search Bar**  
 3. View real-time weather details  
 
 ## 🔧 Installation & Setup  
